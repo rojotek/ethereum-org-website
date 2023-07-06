@@ -13,7 +13,7 @@ There are also improvements that make censoring transactions much more difficult
 
 ## Staking withdrawals {#staking-withdrawals}
 
-The upgrade from proof-of-work to proof-of-stake began with Ethereum pioneers “staking” their ETH in a deposit contract. That ETH is used to protect the network. However, that ETH cannot yet be unlocked and returned to the users. Allowing ETH to be withdrawn is a critical part of the proof-of-stake upgrade. In addition to withdrawals being a critical component of a fully-functional proof-of-stake protocol, allowing withdrawals is also good for Ethereum security as it allows stakers to use their ETH rewards for other non-staking purposes. This means users that want liquidity do not have to rely upon liquid staking derivatives (LSDs) that can be a centralizing force on Ethereum. This upgrade is scheduled to be completed on April 12, 2023.
+The upgrade from proof-of-work to proof-of-stake began with Ethereum pioneers “staking” their ETH in a deposit contract. That ETH is used to protect the network. However, that ETH cannot yet be unlocked and returned to the users. Allowing ETH to be withdrawn is a critical part of the proof-of-stake upgrade. In addition to withdrawals being a critical component of a fully-functional proof-of-stake protocol, allowing withdrawals is also good for Ethereum security as it allows stakers to use their ETH rewards for other non-staking purposes. This means users that want liquidity do not have to rely upon liquid staking derivatives (LSDs) that can be a centralizing force on Ethereum. Staking withdrawals were enabled with the Shanghai/Capella upgrade which occurred on April 12, 2023.
 
 <ButtonLink variant="outline-color" to="/staking/withdrawals/">Read about withdrawals</ButtonLink>
 
